@@ -1,0 +1,2 @@
+TOKEN = 'xxxxxxxxxxxxxxxxxxx'   # Подставить свое значение Bot API, которое нужно получить у бота @BotFather
+ID = 1234567890                 # Подставить свой Telegram User ID, который можно узнать у бота @getmyid_bot
